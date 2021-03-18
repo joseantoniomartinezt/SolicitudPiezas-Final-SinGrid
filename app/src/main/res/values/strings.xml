@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Solicitud Piezas</string>
+    <string name="tabTexto">Texto</string>
+    <string name="tabFoto">Fotos</string>
+</resources>
